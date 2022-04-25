@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delixous", "Delixous\Delixous.csproj", "{1F55745D-8D0E-46B4-83C9-46C67FE77DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comun", "Comun\Comun.csproj", "{98209435-B51B-4492-BA66-00B85D46DC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conexion", "Conexion\Conexion.csproj", "{13319E07-442D-44BA-AEAD-347365F1EB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F55745D-8D0E-46B4-83C9-46C67FE77DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F55745D-8D0E-46B4-83C9-46C67FE77DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F55745D-8D0E-46B4-83C9-46C67FE77DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F55745D-8D0E-46B4-83C9-46C67FE77DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98209435-B51B-4492-BA66-00B85D46DC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98209435-B51B-4492-BA66-00B85D46DC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98209435-B51B-4492-BA66-00B85D46DC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98209435-B51B-4492-BA66-00B85D46DC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13319E07-442D-44BA-AEAD-347365F1EB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13319E07-442D-44BA-AEAD-347365F1EB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13319E07-442D-44BA-AEAD-347365F1EB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13319E07-442D-44BA-AEAD-347365F1EB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853859AE-5C3F-444F-B310-D4A07D9A446D}
+	EndGlobalSection
+EndGlobal
